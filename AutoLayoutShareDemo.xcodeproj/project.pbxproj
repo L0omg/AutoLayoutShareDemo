@@ -227,7 +227,6 @@
 				TargetAttributes = {
 					340150581D1E317300470788 = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = 2JDXBDZP8Y;
 					};
 				};
 			};
@@ -456,7 +455,7 @@
 				INFOPLIST_FILE = AutoLayoutShareDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.formax.debug.AutoLayoutShareDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xxx.AutoLayoutShareDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -470,7 +469,7 @@
 				INFOPLIST_FILE = AutoLayoutShareDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.formax.debug.AutoLayoutShareDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xxx.AutoLayoutShareDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
